@@ -126,7 +126,7 @@ small {
   i {
     color: var(--accent);
     vertical-align: super;
-    font-size: 10px;
+    font-size: 7px;
   }
 }
 
